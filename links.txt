@@ -1,0 +1,4 @@
+https://iterm2.com/downloads/stable/latest - iterm2
+https://go.microsoft.com/fwlink/?LinkID=534106 - vs code
+https://nodejs.org/dist/v18.12.1/node-v18.12.1.pkg - node js
+https://github.com/nvm-sh/nvm#installing-and-updating - nvm
